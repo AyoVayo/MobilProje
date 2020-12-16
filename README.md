@@ -1,2 +1,3 @@
 # MobilProje
-Mobil Uygulama Geliştirme Dersi Projesi
+Mobil Uygulama Geliştirme Dersi Projesi 
+Deneme Commiti
